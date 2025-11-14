@@ -9,6 +9,8 @@ sites:
     url: https://csu-mc.magicalsheep.cn/api/yggdrasil
   - name: CSU-MC Server Map
     url: https://map.magicalsheep.cn
+  - name: CSU-MC Server Home Page
+    url: https://www.csu-mc.magicalsheep.cn/
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
   #- name: IPv6 test
@@ -24,8 +26,8 @@ status-website:
   baseUrl: /learning_server_check
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TheHardDiamond's Server Check
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Welcome to TheHardDiamond's Server monitor website. **Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from [CSU-MC Servers](https://www.csu-mc.magicalsheep.cn/).
   navbar:
     - title: Status
       href: /
