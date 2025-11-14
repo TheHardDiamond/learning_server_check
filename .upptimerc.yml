@@ -5,12 +5,16 @@ repo: learning_server_check # The name of this repository
 sites:
   - name: CSU-MC skin
     url: https://csu-mc.magicalsheep.cn
+    icon: https://csu-mc.magicalsheep.cn/app/favicon.ico
   - name: CSU-MC yggdrasil
     url: https://csu-mc.magicalsheep.cn/api/yggdrasil
+    icon: https://csu-mc.magicalsheep.cn/favicon.ico
   - name: CSU-MC Server Map
     url: https://map.magicalsheep.cn
+    icon: https://map.magicalsheep.cn/favicon.ico
   - name: CSU-MC Server Home Page
     url: https://www.csu-mc.magicalsheep.cn/
+    icon: https://www.csu-mc.magicalsheep.cn/imgs/minecraft_title.png
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
   #- name: IPv6 test
@@ -25,8 +29,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /learning_server_check
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: TheHardDiamond's Server Check
-  introTitle: "Welcome to TheHardDiamond's Server monitor website. **Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: TheHardDiamond's Server Check - 皮肤站坚不可摧
+  introTitle: "Welcome to TheHardDiamond's Server monitor website."
   introMessage: This is a sample status page which uses **real-time** data from [CSU-MC Servers](https://www.csu-mc.magicalsheep.cn/).
   navbar:
     - title: Status
